@@ -30,13 +30,13 @@ calculate.addEventListener("click", function () {
 
     // add conditions on category...
     if (bmiCal < 18) {
-      category.innerHTML = "You are Under Weight.";
+      category.innerHTML = "You are Underweight.";
     } 
     else if (bmiCal >= 18 && bmiCal < 24) {
       category.innerHTML = "You are Normal Weight.";
     }
     else if (bmiCal >= 24 && bmiCal < 30) {
-      category.innerHTML = "You are Above Weight.";
+      category.innerHTML = "You are Overweight.";
     } 
     else {
       category.innerHTML = "You are Obese.";
