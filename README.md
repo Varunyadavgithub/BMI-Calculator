@@ -12,7 +12,7 @@ BMI is widely used as a simple and quick screening tool to identify possible wei
 # Features
 ➡️ Easy to Use :- The BMI Calculator provides a user-friendly interface, making it accessible to users of all levels.<br>
 ➡️ Accurate Calculation :- Utilizes the standard BMI formula to provide accurate results.<br>
-➡️ Validation Check :- This means check the user is entering the currect values or not.
+➡️ Validation Check :- This means check the user is entering the currect values or not.<br>
 ➡️ Metric Units :- The metric means (kilograms and meters) units for flexibility.<br>
 
 # Usage
