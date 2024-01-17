@@ -9,6 +9,10 @@ BMI is widely used as a simple and quick screening tool to identify possible wei
 🌟 Overweight :- BMI between 25 and 29.9<br>
 🌟 Obesity :- BMI 30 or greater<br>
 
+# Demo 🎥
+
+https://github.com/Varunyadavgithub/BMI-Calculator/assets/134674472/9b32faa7-e28d-4b5f-b012-336915a47ca1
+
 # Features
 ➡️ Easy to Use :- The BMI Calculator provides a user-friendly interface, making it accessible to users of all levels.<br>
 ➡️ Accurate Calculation :- Utilizes the standard BMI formula to provide accurate results.<br>
