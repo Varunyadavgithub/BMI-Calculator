@@ -1,4 +1,4 @@
-# BMI Calculator 
+# BMI Calculator [**🔗Live Link**](https://varunyadavgithub.github.io/BMI-Calculator/)
 The BMI Calculator is a simple tool designed to calculate Body Mass Index, a numerical value of a person's weight in relation to their height. 
 BMI is widely used as a simple and quick screening tool to identify possible weight problems in adults.<br>
 
